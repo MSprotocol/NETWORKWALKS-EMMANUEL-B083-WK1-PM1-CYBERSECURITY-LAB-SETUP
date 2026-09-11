@@ -85,4 +85,5 @@ At completion, the repository documents a working baseline lab setup where Kali 
 
 ![Internet Access](./tested-conn.jpg)
 
-![Internet Access](./NAT-is-working.jpg)
+
+![Internet Access](./ip-set-up.png)
