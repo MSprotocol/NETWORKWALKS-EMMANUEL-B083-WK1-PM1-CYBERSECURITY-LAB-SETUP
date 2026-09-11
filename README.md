@@ -38,9 +38,6 @@ Security-tool experimentation
 
 At completion, the repository documents a working baseline lab setup where Kali Linux is connected to an isolated NAT network, has validated connectivity and DNS, and includes a clean restore snapshot to support repeatable future security exercises.
 
-## 🏗️ Lab Architecture
-
-
 
 ## Lab Configuration
 
@@ -72,3 +69,31 @@ At completion, the repository documents a working baseline lab setup where Kali 
 ## Kali Linux IP Address should be 10.0.0.2/24
 
 ## Kali Linux should have full Internet access
+
+## Setup Kali Linux as attacking/hacker machine
+
+![Kali Linux Setup](./screenshots/VM-setup.jpg)
+
+## Setup the network in subnet 10.0.0.0/24
+
+![Network Configuration](./screenshots/network-config.png)
+
+## Use NATNetwork with 10.0.0.0/24
+
+![NAT Network](./screenshots/nat-network.png)
+
+## The clipboard & file drag/drop should be enabled in Virtual Machine settings
+
+![Clipboard Settings](./screenshots/clipboard-settings.png)
+
+## Shared folders should be enabled with /downloads folder shared from host machine
+
+![Shared Folders](./shared-folder.jpg)
+
+## Kali Linux IP Address should be 10.0.0.2/24
+
+![IP Configuration](./ip-set-up.png)
+
+## Kali Linux should have full Internet access
+
+![Internet Access](./tested-conn.jng)
