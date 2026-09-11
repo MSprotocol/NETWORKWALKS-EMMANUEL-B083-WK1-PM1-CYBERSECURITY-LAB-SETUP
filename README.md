@@ -42,11 +42,8 @@ At completion, the repository documents a working baseline lab setup where Kali 
 
 
 
-Great — here’s a **copy-paste markdown section** you can add directly to your `README.md`:
-
-````
 ## Lab Configuration
-
+````
 | 🧩 Component | ⚙️ Configuration |
 |---|---|
 | 🖥️ Host OS | Windows 10 |
