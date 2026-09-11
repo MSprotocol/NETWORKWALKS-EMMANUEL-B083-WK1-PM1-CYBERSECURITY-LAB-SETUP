@@ -43,7 +43,7 @@ At completion, the repository documents a working baseline lab setup where Kali 
 
 
 ## Lab Configuration
-````
+
 | 🧩 Component | ⚙️ Configuration |
 |---|---|
 | 🖥️ Host OS | Windows 10 |
@@ -58,7 +58,7 @@ At completion, the repository documents a working baseline lab setup where Kali 
 | 🚪 Default Gateway | 10.0.0.1 |
 | 🌍 DNS Server | 8.8.8.8 |
 | 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
-````
+
 ## Setup Kali Linux as attacking/hacker machine
 
 ## Setup the network in subnet 10.0.0.0/24
