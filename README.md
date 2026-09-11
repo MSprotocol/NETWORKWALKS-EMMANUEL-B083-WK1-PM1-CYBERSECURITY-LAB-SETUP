@@ -57,33 +57,53 @@ At completion, the repository documents a working baseline lab setup where Kali 
 | 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
 
 
-## Setup Kali Linux as attacking/hacker machine
+
+## Lab Setup Procedure
+## Step 1. Install 7-Zip or WinRAR
+WinRAR was installed to extract the Kali Linux virtual-machine package, which may be distributed as an archive.
+
+Tool: WinRAR
+
+## Step 2. Install VirtualBox
+VirtualBox was installed as the hypervisor.
+![Install Virtualbox](./VirtualBox-Interface.jpg)
+
+## Step 3. Extract kali
+![Extract Kali](./WIN-RR-EXCRACT.jpg)
+
+## Step 4. Setup Kali Linux as attacking/hacker machine
 
 ![Kali Linux Setup](./VM-setup.jpg)
 
-## Setup the network in subnet 10.0.0.0/24
+## Step 5. Setup the network in subnet 10.0.0.0/24
 
 ![Network Configuration](./IP-setup.png)
 
-## Use NATNetwork with 10.0.0.0/24
+## Step 6. Use NATNetwork with 10.0.0.0/24
 
 ![NAT Network](./natsetup.jpg)
 
-## The clipboard & file drag/drop should be enabled in Virtual Machine settings
+## Step 7. The clipboard & file drag/drop should be enabled in Virtual Machine settings
 
 ![Clipboard Settings](./clipboard-settings.png)
 
-## Shared folders should be enabled with /downloads folder shared from host machine
+## Step 8. Shared folders should be enabled with /downloads folder shared from host machine
 
 ![Shared Folders](./shared-folder.jpg)
 
-## Kali Linux IP Address should be 10.0.0.2/24
+## Step 9. Kali Linux IP Address should be 10.0.0.2/24
 
 ![IP Configuration](./ip-set-up.png)
 
-## Kali Linux should have full Internet access
+## Step 10. Kali Linux should have full Internet access
 
 ![Internet Access](./tested-conn.jpg)
 
 
 ![Internet Access](./ip-set-up.png)
+
+
+
+
+
+
