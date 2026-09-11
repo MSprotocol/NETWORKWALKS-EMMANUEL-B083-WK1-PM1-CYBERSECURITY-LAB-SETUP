@@ -62,3 +62,16 @@ Great — here’s a **copy-paste markdown section** you can add directly to you
 | 🌍 DNS Server | 8.8.8.8 |
 | 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
 ````
+## Setup Kali Linux as attacking/hacker machine
+
+## Setup the network in subnet 10.0.0.0/24
+
+## Use NATNetwork with 10.0.0.0/24
+
+## The clipboard & file drag/drop should be enabled in Virtual Machine settings
+
+## Shared folders should be enabled with /downloads folder shared from host machine
+
+## Kali Linux IP Address should be 10.0.0.2/24
+
+## Kali Linux should have full Internet access
